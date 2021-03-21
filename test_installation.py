@@ -8,7 +8,7 @@ import cv2
 # Use the function cv2.imread() to read an image.
 # The image should be in the working directory or a full path of image should be provided.
 # load OpenCV logo image: 
-image = cv2.imread("logo.png")
+image = cv2.imread("images/logo.png")
 
 # Use cv2.cvtColor() to convert an image from one color format to another
 # In this case we use cv2.cvtColor() to convert the loaded image to grayscale (BGR to GRAY):
