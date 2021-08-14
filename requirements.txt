@@ -1,4 +1,4 @@
-opencv-contrib-python
+cmake
 matplotlib
 scikit-image
 scipy
@@ -10,3 +10,8 @@ progressbar
 keras
 tensorflow
 flask
+imutils
+opencv-python
+opencv-contrib-python
+opencv-python-headless
+opencv-contrib-python-headless
